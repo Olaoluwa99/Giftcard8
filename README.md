@@ -46,12 +46,16 @@ Welcome to the technical overview of my work at **Giftcard8**. This repository s
 *High-traffic fintech platform for digital asset exchange.*
 
 <p align="center">
-  <img src="path/to/logo.png" width="100" alt="Giftcard8 Logo">
+  <img width="100" alt="gc8_logo" src="https://github.com/user-attachments/assets/1c0e99d6-10c9-459d-89f9-513921efbc23" />
+
 </p>
 <p align="center">
-  <img src="path/to/screen1.png" width="200" alt="Screen 1">
-  <img src="path/to/screen2.png" width="200" alt="Screen 2">
-  <img src="path/to/screen3.png" width="200" alt="Screen 3">
+  <img width="3684" height="2368" alt="GC8 1" src="https://github.com/user-attachments/assets/a2b3754d-e908-4d36-8749-8b77eedf1cac" />
+  <img width="3684" height="2368" alt="GC8 2" src="https://github.com/user-attachments/assets/6397bbeb-bd05-45a1-841c-cb158b5cac68" />
+</p>
+<p align="center">
+  <img width="3684" height="2368" alt="GC8 3" src="https://github.com/user-attachments/assets/05fec8ff-9da0-4dae-8e1a-6ed2ee8e96f7" />
+  <img width="3684" height="2368" alt="GC8 4" src="https://github.com/user-attachments/assets/60ff5c6c-7b49-488f-a121-9f398d75c4fb" />
 </p>
 
 **Technical Contributions:**
