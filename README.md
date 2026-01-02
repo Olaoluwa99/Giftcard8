@@ -2,7 +2,8 @@
 
 <div align="center">
 
-**Senior Android Developer | Remote-First Architecture** *Building high-traffic production applications serving over 1 million users globally.*
+**Senior Android Developer | Remote-First Architecture**
+*Building high-traffic production applications serving over 1 million users globally.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Olaoluwa%20Odewale-blue?style=flat&logo=linkedin)](https://linkedin.com/in/olaoluwa-odewale)
 [![GitHub](https://img.shields.io/badge/GitHub-Olaoluwa99-black?style=flat&logo=github)](https://github.com/Olaoluwa99)
@@ -45,15 +46,31 @@ Welcome to the technical overview of my work at **Giftcard8**. This repository s
 ### 1. Giftcard8 (1M+ Users)
 *High-traffic fintech platform for digital asset exchange.*
 
-<p>
-  <img width="120" alt="gc8_logo" src="https://github.com/user-attachments/assets/1c0e99d6-10c9-459d-89f9-513921efbc23" />
-</p>
-<p align="center">
-  <img width="3684" height="2368" alt="GC8 1" src="https://github.com/user-attachments/assets/a2b3754d-e908-4d36-8749-8b77eedf1cac" />
-  <img width="3684" height="2368" alt="GC8 2" src="https://github.com/user-attachments/assets/6397bbeb-bd05-45a1-841c-cb158b5cac68" />
-  <img width="3684" height="2368" alt="GC8 3" src="https://github.com/user-attachments/assets/05fec8ff-9da0-4dae-8e1a-6ed2ee8e96f7" />
-  <img width="3684" height="2368" alt="GC8 4" src="https://github.com/user-attachments/assets/60ff5c6c-7b49-488f-a121-9f398d75c4fb" />
-</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" width="120">
+      <img src="https://github.com/user-attachments/assets/1c0e99d6-10c9-459d-89f9-513921efbc23" width="100" alt="gc8_logo" />
+    </td>
+    <td align="right" valign="middle">
+      <a href="https://play.google.com/store/apps/details?id=com.yihua.giftcard">
+        <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/96a910fd-af7c-4629-9ea7-ee64bf9058ca" width="95%" alt="GC8 1" /></td>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/05befd9a-d7b1-4054-9c34-3d6b249656c2" width="95%" alt="GC8 2" /></td>
+    
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/521ecb81-9527-45f4-910d-0ccc6e2e9783" width="95%" alt="GC8 3" /></td>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/d540be42-1e63-4aa2-ab22-a6fb99d380d0" width="95%" alt="GC8 4" /></td>
+  </tr>
+</table>
+
 
 **Technical Contributions:**
 * **Modular Architecture:** Refactored core modules to improve build speeds and team parallelization.
@@ -62,17 +79,33 @@ Welcome to the technical overview of my work at **Giftcard8**. This repository s
 
 ---
 
-### 2. ValueSwap (1M+ Users)
+### 2. ValueSwap (100K+ Users)
 *Digital asset swapping and payment utility.*
 
-<p>
-  <img width="120" height="1200" alt="valueswap_logo" src="https://github.com/user-attachments/assets/3c2d21f6-6a1d-4d10-9e43-8046055b5fde" />
-</p>
-<p align="center">
-  <img width="3684" height="2368" alt="VS 1" src="https://github.com/user-attachments/assets/071ee6ae-889f-4087-b16f-c6f69ee8a48b" />
-  <img width="3684" height="2368" alt="VS 2" src="https://github.com/user-attachments/assets/d080fed5-6ea5-4fc8-bf59-acab20bf4598" />
-  <img width="3684" height="2368" alt="VS 3" src="https://github.com/user-attachments/assets/166a0212-77f7-4fc1-9238-843e8987064c" />
-</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" width="120">
+      <img src="https://github.com/user-attachments/assets/3c2d21f6-6a1d-4d10-9e43-8046055b5fde" width="100" alt="valueswap_logo" />
+    </td>
+    <td align="right" valign="middle">
+      <a href="https://play.google.com/store/apps/details?id=com.valueswap.app">
+        <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/dcd38707-a297-44e8-9815-993754a14245" width="95%" alt="VS 1" /></td>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/5441d1df-8fd4-48e3-9e61-77b12c8cd193" width="95%" alt="VS 2" /></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/dd0aa37e-1cea-495f-aa06-6b5b030c7b25" width="95%" alt="VS 3" /></td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
 
 **Technical Contributions:**
 * **Optimization:** Targeted and resolved memory leaks in heavy listing screens, maintaining a **99.9% crash-free session rate**.
@@ -83,14 +116,30 @@ Welcome to the technical overview of my work at **Giftcard8**. This repository s
 ### 3. RegiftMe (10k+ Users)
 *Developed from scratch to production.*
 
-<p>
-  <img width="120" height="1200" alt="regiftme_logo" src="https://github.com/user-attachments/assets/cf3e5685-37de-4bc2-a303-ea47eb9c7e18" />
-</p>
-<p align="center">
-  <img width="3684" height="2368" alt="RG 1" src="https://github.com/user-attachments/assets/b7d44ca1-0b8e-457e-b6c0-db25d9481305" />
-  <img width="3684" height="2368" alt="RG 2" src="https://github.com/user-attachments/assets/80203d72-9f3b-4e61-a443-32d9259eb6ac" />
-  <img width="3684" height="2368" alt="RG 3" src="https://github.com/user-attachments/assets/93a89c48-e63f-448c-9ddf-d3ef9da6004d" />
-</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" width="120">
+      <img src="https://github.com/user-attachments/assets/cf3e5685-37de-4bc2-a303-ea47eb9c7e18" width="100" alt="regiftme_logo" />
+    </td>
+    <td align="right" valign="middle">
+      <a href="https://play.google.com/store/apps/details?id=com.regiftme.app">
+        <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/1b806ba7-ba3b-4938-b9a2-94d42d36f0be" width="95%" alt="RG 1" /></td>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/22396091-8f7b-4f0f-97cd-30c6c962f469" width="95%" alt="RG 2" /></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/f8e5740d-ca16-4364-bbd6-6036a2f395e5" width="95%" alt="RG 3" /></td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
 
 **Technical Contributions:**
 * **Architectural Design:** Designed the initial system using **Clean Architecture** and **MVVM**, ensuring long-term maintainability.
