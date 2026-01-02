@@ -45,15 +45,12 @@ Welcome to the technical overview of my work at **Giftcard8**. This repository s
 ### 1. Giftcard8 (1M+ Users)
 *High-traffic fintech platform for digital asset exchange.*
 
-<p align="center">
-  <img width="100" alt="gc8_logo" src="https://github.com/user-attachments/assets/1c0e99d6-10c9-459d-89f9-513921efbc23" />
-
+<p>
+  <img width="120" alt="gc8_logo" src="https://github.com/user-attachments/assets/1c0e99d6-10c9-459d-89f9-513921efbc23" />
 </p>
 <p align="center">
   <img width="3684" height="2368" alt="GC8 1" src="https://github.com/user-attachments/assets/a2b3754d-e908-4d36-8749-8b77eedf1cac" />
   <img width="3684" height="2368" alt="GC8 2" src="https://github.com/user-attachments/assets/6397bbeb-bd05-45a1-841c-cb158b5cac68" />
-</p>
-<p align="center">
   <img width="3684" height="2368" alt="GC8 3" src="https://github.com/user-attachments/assets/05fec8ff-9da0-4dae-8e1a-6ed2ee8e96f7" />
   <img width="3684" height="2368" alt="GC8 4" src="https://github.com/user-attachments/assets/60ff5c6c-7b49-488f-a121-9f398d75c4fb" />
 </p>
@@ -68,13 +65,13 @@ Welcome to the technical overview of my work at **Giftcard8**. This repository s
 ### 2. ValueSwap (1M+ Users)
 *Digital asset swapping and payment utility.*
 
-<p align="center">
-  <img src="path/to/valueswap_logo.png" width="100" alt="ValueSwap Logo">
+<p>
+  <img width="120" height="1200" alt="valueswap_logo" src="https://github.com/user-attachments/assets/3c2d21f6-6a1d-4d10-9e43-8046055b5fde" />
 </p>
 <p align="center">
-  <img src="path/to/vs_screen1.png" width="200" alt="Screen 1">
-  <img src="path/to/vs_screen2.png" width="200" alt="Screen 2">
-  <img src="path/to/vs_screen3.png" width="200" alt="Screen 3">
+  <img width="3684" height="2368" alt="VS 1" src="https://github.com/user-attachments/assets/071ee6ae-889f-4087-b16f-c6f69ee8a48b" />
+  <img width="3684" height="2368" alt="VS 2" src="https://github.com/user-attachments/assets/d080fed5-6ea5-4fc8-bf59-acab20bf4598" />
+  <img width="3684" height="2368" alt="VS 3" src="https://github.com/user-attachments/assets/166a0212-77f7-4fc1-9238-843e8987064c" />
 </p>
 
 **Technical Contributions:**
@@ -86,14 +83,13 @@ Welcome to the technical overview of my work at **Giftcard8**. This repository s
 ### 3. RegiftMe (10k+ Users)
 *Developed from scratch to production.*
 
-<p align="center">
-  <img src="path/to/regift_logo.png" width="100" alt="RegiftMe Logo">
+<p>
+  <img width="1200" height="1200" alt="regiftme_logo" src="https://github.com/user-attachments/assets/cf3e5685-37de-4bc2-a303-ea47eb9c7e18" />
 </p>
 <p align="center">
-  <img src="path/to/rm_screen1.png" width="180" alt="Screen 1">
-  <img src="path/to/rm_screen2.png" width="180" alt="Screen 2">
-  <img src="path/to/rm_screen3.png" width="180" alt="Screen 3">
-  <img src="path/to/rm_screen4.png" width="180" alt="Screen 4">
+  <img width="3684" height="2368" alt="RG 1" src="https://github.com/user-attachments/assets/b7d44ca1-0b8e-457e-b6c0-db25d9481305" />
+  <img width="3684" height="2368" alt="RG 2" src="https://github.com/user-attachments/assets/80203d72-9f3b-4e61-a443-32d9259eb6ac" />
+  <img width="3684" height="2368" alt="RG 3" src="https://github.com/user-attachments/assets/93a89c48-e63f-448c-9ddf-d3ef9da6004d" />
 </p>
 
 **Technical Contributions:**
