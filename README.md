@@ -84,7 +84,7 @@ Welcome to the technical overview of my work at **Giftcard8**. This repository s
 *Developed from scratch to production.*
 
 <p>
-  <img width="1200" height="1200" alt="regiftme_logo" src="https://github.com/user-attachments/assets/cf3e5685-37de-4bc2-a303-ea47eb9c7e18" />
+  <img width="120" height="1200" alt="regiftme_logo" src="https://github.com/user-attachments/assets/cf3e5685-37de-4bc2-a303-ea47eb9c7e18" />
 </p>
 <p align="center">
   <img width="3684" height="2368" alt="RG 1" src="https://github.com/user-attachments/assets/b7d44ca1-0b8e-457e-b6c0-db25d9481305" />
